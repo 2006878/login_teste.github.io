@@ -1641,6 +1641,7 @@ input[type='checkbox'] {
 	}
 
 .col-lg-12-login {
+	display: flex;
 	-ms-flex: 0 0 100%;
 	flex: 0 0 100%;
 	max-width: 100%;
